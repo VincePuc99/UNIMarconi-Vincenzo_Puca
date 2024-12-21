@@ -19,7 +19,7 @@ L'ambiente di sviluppo è stato installato su RPi 4B - Debian, mediante l'uso di
 
 #### ⚠️ ATTENZIONE ⚠️
 
-Le librerie e i metodi utilizzati nei progetti sopracitati potrebbero essere deprecati.
+Le librerie e i metodi utilizzati nei progetti sopracitati potrebbero essere deprecati.<br />
 Utilizzare i progetti a solo scopo informativo.
 
 ## **Tool Utilizzati**
