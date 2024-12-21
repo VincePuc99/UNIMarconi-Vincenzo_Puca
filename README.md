@@ -5,7 +5,7 @@ Non verranno fornite le richieste ma soltanto le soluzioni scritte via codice.
 
 ## **Descrizione contenuti**
 
-###  Fondamenti di Cybersecurity [➡️](https://github.com/VincePuc99/UNIPR-Vincenzo_Puca/tree/main/Architettura%20dei%20Calcolatori%20elettronici)
+###  Fondamenti di Cybersecurity [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Fondamenti%20di%20Cybersecurity)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
