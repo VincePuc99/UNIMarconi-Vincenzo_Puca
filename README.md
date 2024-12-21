@@ -1,6 +1,7 @@
 # **Percorso UNIMarconi Vincenzo Puca Mat.0065721**
 
-Repository contenente tutto il materiale svolto per i singoli esami di programmazione. Inclusi progetti, prove demo ed esercizi svolti.
+Repository contenente tutto il materiale svolto per i singoli esami di programmazione.<br />
+Inclusi progetti, prove demo ed esercizi svolti.<br />
 Non verranno fornite le richieste ma soltanto le soluzioni scritte via codice.
 
 ## **Descrizione contenuti**
