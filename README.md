@@ -16,6 +16,14 @@ Non verranno fornite le richieste ma soltanto le soluzioni scritte via codice.
 Esercizi ed esame svolti in linguaggio Python con ausilio libreria [Scapy](https://github.com/secdev/scapy). <br />
 L'ambiente di sviluppo è stato installato su RPi 4B - Debian, mediante l'uso di [vscode-server](https://github.com/coder/code-server).
 
+###  Reti Logiche e Neurali [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Reti%20Logiche%20e%20Neurali)
+
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+
+Riassunto completo del corso in preparazione all'esame.
+
 ---
 
 #### ⚠️ ATTENZIONE ⚠️
