@@ -24,7 +24,7 @@ L'ambiente di sviluppo è stato installato su RPi 4B - Debian, mediante l'uso di
 
 Riassunto completo del corso in preparazione all'esame.
 
-###  Algoritmi e Strutture Dati [➡️]()
+###  Algoritmi e Strutture Dati [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Algoritmi%20e%20Strutture%20Dati)
 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
