@@ -30,7 +30,13 @@ Riassunto completo del corso in preparazione all'esame.
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-Riassunto completo del corso in preparazione all'esame con programmi in pseudo-python.
+<img src="https://github.com/user-attachments/assets/7ba6e7a5-b5bf-40d7-92b7-fc88a4a49b5e" width="80" height="115" align="right">
+
+Riassunto completo del corso in preparazione all'esame con programmi in pseudo-python. <br />
+Un enorme ringraziamento a:
+```
+Grokking Algorithms, Second Edition - ISBN 9781633438538
+```
 
 ---
 
