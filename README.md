@@ -14,7 +14,9 @@ Non verranno fornite le richieste ma soltanto le soluzioni scritte via codice.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Esercizi ed esame svolti in linguaggio Python con ausilio libreria [Scapy](https://github.com/secdev/scapy). <br />
-L'ambiente di sviluppo è stato installato su RPi 4B - Debian, mediante l'uso di [vscode-server](https://github.com/coder/code-server).
+L'ambiente di sviluppo è stato installato su RPi 4B 8GB RAM - Debian, mediante l'uso di [vscode-server](https://github.com/coder/code-server).
+
+---
 
 ###  Reti Logiche e Neurali [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Reti%20Logiche%20e%20Neurali)
 
@@ -23,6 +25,8 @@ L'ambiente di sviluppo è stato installato su RPi 4B - Debian, mediante l'uso di
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 
 Riassunto completo del corso in preparazione all'esame.
+
+---
 
 ###  Algoritmi e Strutture Dati [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Algoritmi%20e%20Strutture%20Dati)
 
