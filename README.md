@@ -44,6 +44,23 @@ Grokking Algorithms, Second Edition - ISBN 9781633438538
 
 ---
 
+###  Architettura dei calcolator elettronici [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Architettura%20dei%20calcolatori%20elettronici)
+
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+
+<img src="https://github.com/user-attachments/assets/58655dda-25b4-47bb-a011-43d99cc3a91e" width="80" height="115" align="right">
+
+Riassunto completo del corso in preparazione all'esame con programmi in linguaggio ARM. <br />
+Un enorme ringraziamento a:
+```
+Introduzione alla programmazione su ARM. - ISBN: 9788832934267
+```
+
+---
+
 #### ⚠️ ATTENZIONE ⚠️
 
 Le librerie e i metodi utilizzati nei progetti sopracitati potrebbero essere deprecati.<br />
