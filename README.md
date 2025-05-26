@@ -44,7 +44,7 @@ Grokking Algorithms, Second Edition - ISBN 9781633438538
 
 ---
 
-###  Architettura dei calcolator elettronici [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Architettura%20dei%20calcolatori%20elettronici)
+###  Architettura dei calcolatori elettronici [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Architettura%20dei%20calcolatori%20elettronici)
 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
