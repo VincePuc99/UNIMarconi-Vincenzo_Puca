@@ -28,6 +28,16 @@ Riassunto completo del corso in preparazione all'esame.
 
 ---
 
+###  Metodi e strategie di comunicazione digitale [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Metodi%20e%20strategie%20di%20comunicazione%20digitale)
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+
+Riassunto completo del corso in preparazione all'esame, contenuti SEO, digital marketing e Google Ads/Analytics.
+
+---
+
 ###  Algoritmi e Strutture Dati [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Algoritmi%20e%20Strutture%20Dati)
 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
