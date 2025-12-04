@@ -71,6 +71,17 @@ Introduzione alla programmazione su ARM. - ISBN: 9788832934267
 
 ---
 
+###  Linked Data & Web Semantico [➡️](https://github.com/VincePuc99/UNIMarconi-Vincenzo_Puca/tree/main/Linked%20Data%20%26%20Web%20Semantico)
+
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+
+Riassunto completo del corso in preparazione all'esame, contenuti linked e open data, ontologie e Schema.org
+
+---
+
+
 #### ⚠️ ATTENZIONE ⚠️
 
 Le librerie e i metodi utilizzati nei progetti sopracitati potrebbero essere deprecati.<br />
